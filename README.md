@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me👋
+🤖 Robotics Undergrad\
+🎯 Interest: autonomous systems,perception, control theory, and AI.\
+💻 Tech Stack: C, Python, Matlab, Common Lisp
 
 <!--
 **ultimate-penguin/ultimate-penguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

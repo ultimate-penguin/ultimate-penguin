@@ -1,6 +1,6 @@
 ## About Me👋
-🤖 Robotics Undergrad\
-🎯 Interest: autonomous systems,perception, control theory, and AI.\
+🤖 AI Robotics Undergrad\
+🎯 Interest: autonomous systems, control theory, perception ,AI\
 💻 Tech Stack: C, Python, Matlab, Common Lisp
 
 <!--
